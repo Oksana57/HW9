@@ -1,5 +1,6 @@
 from aiogram import Bot, Dispatcher, executor, types
-from handler import dp
+# from handler import dp
+from handler1 import dp
 # from hand import dp
 
 
